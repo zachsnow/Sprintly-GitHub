@@ -1,6 +1,6 @@
 #Sprintly-GitHub
 
-[Sprint.ly](http://sprint.ly/ 'Sprint.ly') is a great tool for managing work items; [GitHub](http://github.com 'GitHub') is a great tool for managing your code. The tools in this repository will help you take advantage of the integration with GitHub that Sprint.ly offers without drawing your attention away from the terminal. Use the `sprintly` command line tool to get a list of all items assigned to you. Install the `commit-msg` hook to facilitate Sprint.ly's GitHub integration.
+[Sprint.ly](http://sprint.ly/ 'Sprint.ly') is a great tool for managing work items; [GitHub](http://github.com 'GitHub') is a great tool for managing your code. The tools in [this repository](https://github.com/nextbigsoundinc/Sprintly-GitHub) will help you take advantage of the integration with GitHub that Sprint.ly offers without drawing your attention away from the terminal. Use the `sprintly` command line tool to get a list of all items assigned to you. Install the `commit-msg` hook to facilitate Sprint.ly's GitHub integration.
 
 #How to use `sprintly`
 
